@@ -32,6 +32,6 @@ npm run DB:Generate
 ```
 ## Running server
 ```bash
-	npm run build
-	npm run start
+npm run build
+npm run start
 ```
