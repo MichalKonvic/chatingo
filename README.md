@@ -3,8 +3,8 @@
 ## env. variables
 `.env.local`
 provide mail provider & creadentials
-example:
 
+example:
 ```bash
 # Auth
 
@@ -19,9 +19,10 @@ EMAIL_SERVER=smtp://examplev@example.com:asdfghjkl@smtp.example.com:587
 ```
 `.env`
 provide db url
+
 example:
 ```bash
-DATABASE_URL="mysql://root:root@localhost:3306/chat-app"
+DATABASE_URL="mysql://root:root@localhost:3306/chatingo"
 ```
 
 ## Setup prisma
